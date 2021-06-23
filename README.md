@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ahsenyavas&show_icons=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsenyavas" alt="ahsenyavas" /> </p>
+
 
 
 
