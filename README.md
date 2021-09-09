@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏃‍ I am improving myself in the field of machine learning and data science.
+
 - 💻 I use github to share the codes I learned from the lessons and also the projects I've applied.
-- 👁️ Python, Data Science, Machine Learning.
 
 
 
