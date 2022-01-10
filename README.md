@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<a href="https://tr.reactjs.org/" target="_blank"> <img src="https://reactjs.org/logo-og.png" alt="react" width="40" height="40"/> 
+<a href="https://tr.reactjs.org/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="react" width="40" height="40"/> 
 </a> 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> 
 </a> 
