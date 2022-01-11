@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsen-yava%C5%9F-9b5061187/)
 
-
-![Mail Badge](https://img.shields.io/badge/ahsenyavas57@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahsenyavas57@gmail.com)
