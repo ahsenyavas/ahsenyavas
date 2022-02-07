@@ -5,7 +5,7 @@
 
 💻 I use github to share the codes I learned and also the projects I've applied.
 
-💬 Reach me by email or LinkedIn! ahsenyavas57@gmail.com | www.linkedin.com/in/ahsen-yavaş-9b5061187/
+💬 Reach me by email or LinkedIn! ahsenyavas57@gmail.com | https://www.linkedin.com/in/ahsen-yavas/
 
 <p 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
